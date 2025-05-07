@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chat Application MERN-Stack Web Application.
 
 <p align="center">
@@ -186,3 +187,7 @@ LinkedIn : https://www.linkedin.com/in/akashdeep023/
 Thank you for exploring Chat App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
 
 ---
+=======
+# ChatAPP
+A Chat App built using the MERN stack (MongoDB, Express.js, React.js, Node.js) is a modern, real-time communication platform leveraging full-stack JavaScript technologies. Here's a high-level description of how a top-tier chat app using MERN stack .
+>>>>>>> 71a79cdee0f3c21b67da7ab1e2fe53ceb1282c5c
