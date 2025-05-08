@@ -12,16 +12,16 @@ const Footer = () => {
 			<div className="flex items-center justify-start w-full p-4 flex-wrap">
 				<div className="flex flex-col min-w-[280px] w-[33%] my-3">
 					<h1 className="font-semibold mb-2">Contact</h1>
-					<span>Akash Deep</span>
-					<span>Patna, Bihar</span>
-					<span>Pincode - 801303</span>
+					<span>Ayush Maurya</span>
+					<span>New Dehli</span>
+					<span>Pincode - 110053</span>
 					<span>
 						<Link
-							to={"mailto:contact.akashdeep023@gmail.com"}
+							to={"mailto:contact.mauryaayush484@gmail.com"}
 							target="_blank"
 							className="hover:text-blue-600 hover:underline"
 						>
-							contact.akashdeep023@gmail.com
+							contact.mauryaayush484gmail.com
 						</Link>
 					</span>
 				</div>
@@ -65,7 +65,7 @@ const Footer = () => {
 					<span>
 						<a
 							className="hover:text-blue-600 hover:underline"
-							href="https://www.linkedin.com/in/akashdeep023/"
+							href="https://www.linkedin.com/in/ayush-maurya-664b4a246/?trk=public-profile-join-page"
 							target="_blank"
 							rel="noreferrer"
 						>
@@ -75,7 +75,7 @@ const Footer = () => {
 					<span>
 						<a
 							className="hover:text-blue-600 hover:underline"
-							href="https://github.com/akashdeep023/"
+							href="https://github.com/AyushMaurya790"
 							target="_blank"
 							rel="noreferrer"
 						>
@@ -85,17 +85,17 @@ const Footer = () => {
 					<span>
 						<a
 							className="hover:text-blue-600 hover:underline"
-							href="https://instagram.com/akashdeep023_/"
+							href="https://leetcode.com/u/Promax-coder/"
 							target="_blank"
 							rel="noreferrer"
 						>
-							Instagram
+							LeetCode
 						</a>
 					</span>
 					<span>
 						<a
 							className="hover:text-blue-600 hover:underline"
-							href="mailto:contact.akashdeep023@gmail.com"
+							href="mailto:contact.mauryaayush484gmail@gmail.com"
 							target="_blank"
 							rel="noreferrer"
 						>
@@ -105,7 +105,7 @@ const Footer = () => {
 				</div>
 			</div>
 			<h1 className="font-bold">
-				All rights reserved 2024 &copy; ChatApp
+				All rights reserved 2025 &copy; ChatApp
 			</h1>
 		</div>
 	);
