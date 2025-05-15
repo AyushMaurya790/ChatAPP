@@ -4,7 +4,7 @@
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
-  <a style="" href="https://github.com/akashdeep023">
+  <a style="" href="https://github.com/AyushMaurya790 ">
   <img src="https://profile-counter.glitch.me/chat-app/count.svg" />
   </a>
 </p>
@@ -78,16 +78,16 @@ Follow these steps to set up and run the project locally:
     Frontend Folder :
 
     ```bash
-    VITE_BACKEND_URL=http://localhost:9000
+    VITE_BACKEND_URL=""
     ```
 
     Backend Folder :
 
     ```bash
-    FRONTEND_URL=http://localhost:5173
-    MONGODB_URI=mongodb://127.0.0.1:27017/chat-app
+    FRONTEND_URL=""
+    MONGODB_URI=""
     PORT=9000
-    JWT_SECRET=secret-kvndkvdlkajkhkJkBiu6JJNjkbhkvnskcmhLJ5dKbkjsamnv
+    JWT_SECRET=""
     ```
 
     Replace the values with your specific configurations.
